@@ -27,10 +27,16 @@
       border-radius: 10px;
       box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     }
+     h2 {
+      color: #d6336c;
+      font-size: 2.5rem;
+      margin-bottom: 20px;
+    }
   </style>
 </head>
 <body>
   <h1>С днем рождения, любимая ❤️</h1>
   <img src="https://sun9-79.userapi.com/s/v1/if2/WvTuf9_9xjXpfK9mglCm_Oroxr3IUS33U7JUXvy-vngzskfuX6wfffCruTZpWNnhBhmg35_zBBz47Yi-VdlD8jAe.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=2560x0" alt="С днем рождения">
+  <h2>Ты - Лучшая!</h2>
 </body>
 </html>
