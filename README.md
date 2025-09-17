@@ -8,3 +8,6 @@
   <h1>С днём рождения, любимая ❤️</h1>
 </body>
 </html>
+<img src="https://thumbs.dreamstime.com/b/colorful-happy-birthday-cupcakes-candles-spelling-148323072.jpg" alt="С днем рождения">
+</body>
+</html>
